@@ -67,8 +67,8 @@ Below are key interfaces of the application.
 
 **Login Page:** The entry point for users to access the platform.
 <p align="center">
- <img width="500px" src="https://github.com/user-attachments/assets/79c1702e-b9e6-485e-aad4-fb0e124734d3" alt="qr"/>
- <img width="500px" src="https://github.com/user-attachments/assets/efd4d3e7-a5d6-4973-96e8-985b20ad4a02" alt="qr"/>
+ <img height="350px" src="https://github.com/user-attachments/assets/79c1702e-b9e6-485e-aad4-fb0e124734d3" alt="qr"/>
+ <img height="350px" src="https://github.com/user-attachments/assets/efd4d3e7-a5d6-4973-96e8-985b20ad4a02" alt="qr"/>
 </p>
 
 **Product Catalog:** Browse available UAVs and components.
@@ -83,14 +83,14 @@ Below are key interfaces of the application.
 
 **User Profile:** View order and event history.
 <p align="center">
- <img width="500px" src="https://github.com/user-attachments/assets/9881ae09-6c45-4ef4-aa57-0424c48dc064" alt="qr"/>
-	<img width="500px" src="https://github.com/user-attachments/assets/a42b1264-b6ec-4a81-abf1-ab3cdd4cce28" alt="qr"/>
+ <img height="100px" src="https://github.com/user-attachments/assets/9881ae09-6c45-4ef4-aa57-0424c48dc064" alt="qr"/>
+ <img height="100px" src="https://github.com/user-attachments/assets/a42b1264-b6ec-4a81-abf1-ab3cdd4cce28" alt="qr"/>
 </p>
 
 **Admin Panel:** Manage users and events.
 <p align="center">
- <img width="500px" src="https://github.com/user-attachments/assets/1ae35dee-022e-478c-87f5-cd7cf97d3186" alt="qr"/>
- <img width="500px" src="https://github.com/user-attachments/assets/2822a0ba-22b6-4147-a031-d755a85d0023" alt="qr"/>
+ <img width="600px" src="https://github.com/user-attachments/assets/1ae35dee-022e-478c-87f5-cd7cf97d3186" alt="qr"/>
+ <img width="600px" src="https://github.com/user-attachments/assets/2822a0ba-22b6-4147-a031-d755a85d0023" alt="qr"/>
 </p>
 
 **Seller Product Management:** Adding new product to catalog.
